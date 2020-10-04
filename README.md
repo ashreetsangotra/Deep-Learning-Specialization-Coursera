@@ -1,9 +1,5 @@
 # Deep-Learning-Specialization-Coursera
-Covers Course wise and week wise assignments and projects. 
-
-Highlight projects for quick acess:
-
---Fill this section once Specialization is complete--
+This repo covers Course wise and week wise assignments and projects. 
 
 # Specialization Description
 The Deep Learning Specialization is designed to prepare learners to
